@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/Td9qqo2K/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gxels-Hub/Semi-Tp/refs/heads/main/Sab-Tp.lua"))()
